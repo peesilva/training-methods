@@ -7,4 +7,4 @@ class Calculator {
     }
 }
 
-// int sum = new Calculator().add(1, 2); entendido que aqui contem os valores do metodo add d`gita linha 2
+// int sum = new Calculator().add(1, 2); entendido que aqui contem os valores do metodo add da linha 2
